@@ -3,7 +3,7 @@ name = "hoa-auditor"
 version = "2.0.0"
 description = "HOA Auditor using Google ADK Multi-Agent architecture"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
     "google-genai>=0.3.0",
     "google-agents-cli>=0.5.1",
