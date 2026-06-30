@@ -82,6 +82,12 @@ To avoid configuration overhead and run the audit dashboard instantly, we provid
 
 To execute live multi-agent audits on custom or modified document inputs:
 
+> [!IMPORTANT]
+> To force the system to run live multi-agent calls to the Gemini API instead of serving cached results, you must remove or rename the local cache file:
+> ```bash
+> rm app/.local_cache.json
+> ```
+
 1. **Configure Environment Variables:**  
    Create a `.env` file inside your `app/` folder matching the blueprint in `app/.env.example`:  
    ```bash
