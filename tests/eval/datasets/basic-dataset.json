@@ -1,0 +1,46 @@
+{
+  "eval_cases": [
+    {
+      "eval_case_id": "roofing_assessment_risk",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Please run a financial audit on financials.txt and resale_cert.txt. Check for any pending special assessments, monthly dues, and if the reserves are underfunded."
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "Based on the audit, there is a pending special assessment of $5,000.00 per unit for roofing repairs noted in financials.txt and resale_cert.txt. The reserves are currently only 30% funded (balance of $120,000 against a recommended $400,000, underfunded by $280,000). The monthly maintenance fee is $450.00."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "eval_case_id": "lease_and_pet_restrictions",
+      "prompt": {
+        "role": "user",
+        "parts": [
+          {
+            "text": "Audit ccrs.txt and bylaws.txt to check for any rental lease caps and pet restrictions."
+          }
+        ]
+      },
+      "reference": {
+        "response": {
+          "role": "model",
+          "parts": [
+            {
+              "text": "According to CC&Rs Section 7.1 and resale_cert.txt, there is a rental leasing cap of 15% of all units, with current occupancy at 14.8%. Pet restrictions in CC&Rs Section 8.5 and Article VI Section 2 of the Bylaws limit homeowners to two domestic pets with an individual weight limit of 35 lbs."
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

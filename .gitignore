@@ -1,0 +1,18 @@
+# Local Environment Configurations
+.env
+app/.env
+*.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# System Overrides
+.DS_Store
+Thumbs.db

@@ -1,0 +1,190 @@
+Annual Financials-Unaudited
+The Realtor Apartment
+
+GENERAL LEDGER                                                          PAGE 1
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 01/19/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 01/19/2015
+                                                      As of 11:00:02
+Cur. Period: 12/14  DECEMBER 31, 2014                 PROJECT SQ FT:
+Sel. Period: 01/14 Thru 12/14                         PROJECT UNITS: 116
+
+Address: 1st Main St, Mainly, WA 98100, US
+
+ACCOUNT   DESCRIPTION                    ENTRY#  SC  DATE      BEG BALANCE     DEBIT       CREDIT      END BAL     REFERENCE
+ASSETS
+CASH
+1020-     Cash-Operating-Foundation                                             0.00
+
+THE REALTOR APARTMENT OWNERS ASSOC.      893425  VE  06/26/14  20,790.20                               Cash-Operating
+End of month totals for June                                    0.00            20,730.20   0.00        20,790.20
+
+FOUNDATION BANK                          20001   CK  07/07/14                  60.00                   A/P Summary
+ASSOCIATION MANAGEMENT                   20002   CK  07/07/14                  2,231.67                A/P Summary
+UNION BK CK3283986 FOR RESXFR           JE      07/09/14                      2,007.50                1062 > 1020
+UNION BK CK3309427 FOR RESXFR           JE      07/09/14                      1,462.28                1062 > 1020
+ASSOCIATION MANAGEMENT                   20003   CK  07/11/14                  40.60                   A/P Summary
+AADVANTAGE PEST CONTROL                  20004   CK  07/17/14                  164.25                  A/P Summary
+BIRD BUSTERS INC                         20005   CK  07/17/14                  219.00                  A/P Summary
+CAGIANUT AND COMPANY CPA                 20006   CK  07/17/14                  2,000.00                A/P Summary
+CONDOMINIUM LAW GROUP                    20007   CK  07/17/14                  261.25                  A/P Summary
+POSTAGE ACCOUNT                          20008   CK  07/17/14                  18.20                   A/P Summary
+ENVIRONIX THE MOLD EXPERTS               20009   CK  07/17/14                  450.00                  A/P Summary
+GRACE ARCHITECTS, PLLC                   20010   CK  07/17/14                  2,007.50                A/P Summary
+THE REALTOR APARTMENT INSURANCE          20011   CK  07/17/14                  3,138.17                A/P Summary
+THE REALTOR APARTMENT RESERVES           20012   CK  07/17/14                  212,960.00              A/P Summary
+NORTHWEST LANDSCAPE SERVICES             20013   CK  07/17/14                  2,377.25                A/P Summary
+PUGET SOUND ENERGY                       20014   CK  07/17/14                  85.67                   A/P Summary
+ASSOCIATION MANAGEMENT                   20015   CK  07/17/14                  126.90                  A/P Summary
+SUNSET GLASS CO INC                      20016   CK  07/17/14                  1,736.96                A/P Summary
+KB CK DEP TO FB OPEXFR                  JE      07/17/14                      1,965.79                CLOSE KB OP CKG
+UNION BK CK3382423 RESXFR               JE      07/23/14                      274.68                  1062 > 1020
+John Smith                               20017   CK  07/24/14                  219.00                  A/P Summary
+MAINTCO INC                              20018   CK  07/24/14                  8,642.69                A/P Summary
+NORTHWEST LANDSCAPE SERVICES             20019   CK  07/24/14                  3,719.72                A/P Summary
+Jane Doe                                 20020   CK  07/29/14                  115.97                  A/P Summary
+PUBLIC STORAGE                           20021   CK  07/29/14                  48.78                   A/P Summary
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              20,371.42   1407102
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              6,059.89    1407103
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              2,124.95    1407107
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              1,582.64    1407108
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              3,618.97    1407109
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              1,425.15    1407114
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              0.25        1407115
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              247.17      1407138
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              394.74      1407127
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              416.05      1407152
+RENT/OTHER CASH RECEIPTS                 AUTO07  DP  07/31/14                              638.22      1407153
+End of month totals for July                                    20,790.20       42,589.70   40,642.58   22,737.32
+
+UNION BK CK3443035 RESXFR               JE      07/31/14                      1,199.85                1062 > 1020
+FOUNDATION BANK                          20022   CK  08/04/14                  60.00                   A/P Summary
+ASSOCIATION MANAGEMENT                   20023   CK  08/04/14                  2,231.67                A/P Summary
+John Smith                               20024   CK  08/04/14                  15.94                   A/P Summary
+A.C. MOATE INDUSTRIES                    20025   CK  08/04/14                  3,199.85                A/P Summary
+UNION BK CK3477507 RESXFR               JE      08/05/14                      539.15                  1062 > 1020
+ASSOCIATION MANAGEMENT                   20026   CK  08/06/14                  40.60                   A/P Summary
+KB IR CK CAU RESXFR                     JE      08/07/14                      37,760.00               1070 > 1020
+UNION BK CK3538134 RESXFR               JE      08/12/14                      896.29                  1062 > 1020
+AADVANTAGE PEST CONTROL                  20027   CK  08/13/14                  213.53                  A/P Summary
+MAINLY CITY TREASURER                    20028   CK  08/13/14                  21,402.41               A/P Summary
+BIRD BUSTERS INC                         20029   CK  08/13/14                  71.18                   A/P Summary
+COMMUNITY ASSOCIATION UNDERWRITERS       20030   CK  08/13/14                  37,760.00               A/P Summary
+POSTAGE ACCOUNT                          20031   CK  08/13/14                  21.98                   A/P Summary
+THE REALTOR APARTMENT INSURANCE          20032   CK  08/13/14                  3,138.17                A/P Summary
+THE REALTOR APARTMENT RESERVES           20033   CK  08/13/14                  12,960.00               A/P Summary
+NORTHWEST LANDSCAPE SERVICES             20034   CK  08/13/14                  2,377.25                A/P Summary
+PUBLIC STORAGE                           20035   CK  08/13/14                  108.00                  A/P Summary
+PUGET SOUND ENERGY                       20036   CK  08/13/14                  74.94                   A/P Summary
+ASSOCIATION MANAGEMENT INC.             20037   CK  08/13/14                  74.46                   A/P Summary
+ASSOCIATION MANAGEMENT                   20038   CK  08/13/14                  66.75                   A/P Summary
+SUNSET GLASS CO INC                      20039   CK  08/19/14                  539.15                  A/P Summary
+AADVANTAGE PEST CONTROL                  20040   CK  08/25/14                  591.31                  A/P Summary
+A.C. MOATE INDUSTRIES                    20041   CK  08/25/14                  1,629.36                A/P Summary
+ASSOCIATION RESERVES WA                  20042   CK  08/25/14                  1,370.00                A/P Summary
+CONDOMINIUM LAW GROUP                    20043   CK  08/25/14                  78.75                   A/P Summary
+
+---
+
+GENERAL LEDGER                                                          PAGE 2
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 01/19/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 01/19/2015
+                                                      As of 11:00:03
+Cur. Period: 12/14  DECEMBER 31, 2014                 PROJECT SQ FT:
+Sel. Period: 01/14 Thru 12/14                         PROJECT UNITS: 116
+
+ACCOUNT   DESCRIPTION                    ENTRY#  SC  DATE      BEG BALANCE     DEBIT       CREDIT      END BAL     REFERENCE
+1020-     Cash-Operating-Foundation (continued)
+
+MAINTCO INC                              20044   CK  08/25/14                  2,512.10                A/P Summary
+ASSOCIATION MANAGEMENT                   20045   CK  08/25/14                  1,210.00                A/P Summary
+SUNSET GLASS CO INC                      20046   CK  08/25/14                  1,195.85                A/P Summary
+UNION BK CK3603399 RESXFR               JE      08/25/14                      299.56                  1062 > 1020
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              844.74      1407165
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              391.05      1407167
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              494.34      1408100
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              1,305.13    1408101
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              3,080.43    1408107
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              20,622.28   1408109
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              2,219.89    1408112
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              2,555.60    1408117
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              2,448.77    1408118
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              394.74      1408119
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              450.08      1408122
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              494.34      1408126
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              647.17      1408139
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              250.00      1408177
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              844.37      1408183
+RENT/OTHER CASH RECEIPTS                 AUTO08  DP  08/31/14                              391.05      1408186
+End of month totals for August                                  22,737.32       78,128.83   88,841.25   12,024.90
+
+FOUNDATION BANK                          20047   CK  09/03/14                  60.00                   A/P Summary
+ASSOCIATION MANAGEMENT                   20048   CK  09/03/14                  2,231.67                A/P Summary
+ASSOCIATION MANAGEMENT                   20049   CK  09/03/14                  40.60                   A/P Summary
+AADVANTAGE PEST CONTROL                  20050   CK  09/16/14                  164.25                  A/P Summary
+POSTAGE ACCOUNT                          20051   CK  09/16/14                  68.16                   A/P Summary
+THE REALTOR APARTMENT INSURANCE          20052   CK  09/16/14                  3,138.17                A/P Summary
+THE REALTOR APARTMENT RESERVES           20053   CK  09/16/14                  12,960.00               A/P Summary
+MAINTCO INC                              20054   CK  09/16/14                  421.58                  A/P Summary
+NORTHWEST LANDSCAPE SERVICES             20055   CK  09/16/14                  2,377.25                A/P Summary
+PUGET SOUND ENERGY                       20056   CK  09/16/14                  79.39                   A/P Summary
+ASSOCIATION MANAGEMENT INC.             20057   CK  09/16/14                  372.30                  A/P Summary
+ASSOCIATION MANAGEMENT                   20058   CK  09/16/14                  124.00                  A/P Summary
+SUNSET GLASS CO INC                      20059   CK  09/16/14                  388.55                  A/P Summary
+PUBLIC STORAGE                           20060   CK  09/17/14                  108.00                  A/P Summary
+John Smith                               20061   CK  09/19/14                  129.82                  A/P Summary
+NLS REIMB FOR WINDOW                    JE      09/22/14                      388.55                  5500 > 1020
+UNION BK CK3805546 FOR GRACE RESXFR    JE      09/22/14                      462.50                  1062 > 1020
+GRACE ARCHITECTS, PLLC                   20062   CK  09/23/14                  462.50                  A/P Summary
+MAINTCO INC                              20063   CK  09/23/14                  3,990.19                A/P Summary
+ROOFTECH SERVICES, INC                   20064   CK  09/23/14                  177.39                  A/P Summary
+ASSOCIATION MANAGEMENT                   20065   CK  09/23/14                  10.00                   A/P Summary
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              391.05      1408192
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              1,266.52    1408195
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              394.74      1408196
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              656.96      1409102
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              1,532.56    1409104
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              4,219.86    1409105
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              1,438.76    1409107
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              2,368.43    1409110
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              21,013.33   1409111
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              1,147.33    1409115
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              1,472.24    1409121
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              421.58      1409129
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              494.34      1409136
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              247.17      1409141
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              638.22      1409150
+RENT/OTHER CASH RECEIPTS                 AUTO09  DP  09/30/14                              494.34      1409153
+End of month totals for September                               12,024.90       39,048.48   27,303.82   23,769.56
+
+---
+
+GENERAL LEDGER                                                          PAGE 3
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 01/19/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 01/19/2015
+                                                      As of 11:00:03
+Cur. Period: 12/14  DECEMBER 31, 2014                 PROJECT SQ FT:
+Sel. Period: 01/14 Thru 12/14                         PROJECT UNITS: 116
+
+ACCOUNT   DESCRIPTION                    ENTRY#  SC  DATE      BEG BALANCE     DEBIT       CREDIT      END BAL     REFERENCE
+1020-     Cash-Operating-Foundation (continued)
+
+MAINLY CITY TREASURER                    20028   CK  10/16/14                  25,497.14               A/P Summary
+FISCHER RESTORATION AND SERVICES         20074   CK  10/16/14                  158.78                  A/P Summary
+THE REALTOR APARTMENT INSURANCE          20075   CK  10/16/14                  3,138.17                A/P Summary
+NORTHWEST LANDSCAPE SERVICES             20076   CK  10/16/14                  2,377.25                A/P Summary
+PUGET SOUND ENERGY                       20077   CK  10/16/14                  88.11                   A/P Summary
+ROOFTECH SERVICES, INC                   20078   CK  10/16/14                  4,286.93                A/P Summary
+ASSOCIATION MANAGEMENT                   20079   CK  10/16/14                  20.00                   A/P Summary
+AAA FIRE SAFETY, INC.                    20080   CK  10/28/14                  6,580.95                A/P Summary
+THE REALTOR APARTMENT RESERVES           20081   CK  10/28/14   [Document continues]
+
+FOUNDATION BANK                          20066   CK  10/01/14                  60.00                   A/P Summary
+ASSOCIATION MANAGEMENT                   20067   CK  10/01/14                  2,231.67                A/P Summary
+ASSOCIATION MANAGEMENT                   20068   CK  10/01/14                  40.60                   A/P Summary
+MAINLY COMMUNITY COLLEGE                 20069   CK  10/01/14                  169.00                  A/P Summary
+ASSOCIATION MANAGEMENT                   20070   CK  10/09/14                  90.00                   A/P Summary
+PUBLIC STORAGE                           20071   CK  10/13/14                  108.00                  A/P Summary
+AADVANTAGE PEST CONTROL                  20072   CK  10/16/14                  136.88                  A/P Summary

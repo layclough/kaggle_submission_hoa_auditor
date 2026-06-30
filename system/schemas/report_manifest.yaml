@@ -1,0 +1,51 @@
+version: "2.0"
+description: "HOA Auditor Report Schema v2.0 Specification"
+
+# 11-step fill order (risks first, overall_verdict last)
+fill_order:
+  - 1_document_inventory
+  - 2_identified_risks_findings
+  - 3_monthly_hoa_fees
+  - 4_reserve_funding_status
+  - 5_pending_special_assessments
+  - 6_ccr_lease_restrictions
+  - 7_bylaw_pet_limits
+  - 8_cross_reference_verification
+  - 9_line_item_financial_extracts
+  - 10_urgency_determinations
+  - 11_overall_verdict
+
+# Cross-referencing constraints (XR-1 through XR-6 targeting a risk_id mapping format)
+cross_reference_rules:
+  XR-1:
+    description: "Map financial liabilities directly to corresponding CC&R sections."
+    target_format: "risk_id: {category: 'FINANCIAL', section: '{ccr_section}', risk_id: 'XR-1-{index}'}"
+  XR-2:
+    description: "Correlate resale certificate disclosures with bylaws constraints."
+    target_format: "risk_id: {category: 'BYLAW', section: '{bylaw_section}', risk_id: 'XR-2-{index}'}"
+  XR-3:
+    description: "Cross-reference monthly HOA dues with the current year budget line items."
+    target_format: "risk_id: {category: 'BUDGET', section: '{budget_section}', risk_id: 'XR-3-{index}'}"
+  XR-4:
+    description: "Map reserve study underfunding to the maintenance schedule."
+    target_format: "risk_id: {category: 'RESERVES', section: '{maintenance_section}', risk_id: 'XR-4-{index}'}"
+  XR-5:
+    description: "Check pending assessment details against the special assessments section of CC&Rs."
+    target_format: "risk_id: {category: 'ASSESSMENT', section: '{ccr_section}', risk_id: 'XR-5-{index}'}"
+  XR-6:
+    description: "Ensure every extracted risk finding has a corresponding risk_id mapped to its source document and section."
+    target_format: "risk_id: {category: 'RISK_FINDINGS', section: '{doc_section}', risk_id: 'XR-6-{index}'}"
+
+# Mathematical verification rules (absolute ban on AI-generated mathematical totals)
+mathematical_rules:
+  ban_ai_totals: true
+  action_required: "Extract explicit, verified line-items only. Never calculate or sum totals using AI. If a total is not explicitly written in the document, mark it as 'Not Disclosed'."
+
+# Tone rules (strict guardrail to maintain an objective investigative due diligence tone over definitive legal advice)
+tone_rules:
+  required_tone: "Objective investigative due diligence"
+  prohibited_tone: "Definitive legal advice"
+  guidelines:
+    - "Do not use language such as 'Legally, the HOA must...' or 'You are legally required to...'"
+    - "Use objective, investigative statements such as 'Section 4.2 of the CC&Rs indicates...' or 'The reserve study reports underfunding of...'"
+    - "Frame findings as items for due diligence investigation rather than legal decisions."

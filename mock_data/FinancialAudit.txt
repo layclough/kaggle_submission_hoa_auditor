@@ -1,0 +1,290 @@
+Financial Audit
+The Realtor Apartment
+
+The Realtor Apartment
+Owners Association
+
+Audit Report
+Financial Statements
+
+&
+Supplementary Information
+December 31, 2012
+
+Prepared by:
+John Smith & Company
+CERTIFIED PUBLIC ACCOUNTANT
+
+Members - Community Associations Institute -- Washington State
+Washington Society of Certified Public Accountants
+American Institute of Certified Public Accountants
+
+John Smith, CPA
+Jane Doe, CPA
+
+Certified Public Accountant
+
+---
+
+Independent Auditors' Report
+
+To the Board of Directors and Members
+The Realtor Apartment Owners Association
+1st Main St, Mainly, WA 98100, US
+
+Report on the Financial Statements
+
+We have audited the accompanying financial statements of The Realtor Apartment Owners Association,
+which comprise the balance sheet as of December 31, 2012, and the related statements of revenues,
+expenses and changes in fund balances and cash flows for the year then ended and the related notes to
+the financial statements.
+
+Association's Responsibility for the Financial Statements
+
+The Association is responsible for the preparation and fair presentation of these financial statements in
+accordance with accounting principles generally accepted in the United States of America; this includes the
+design, implementation, and maintenance of internal control relevant to the preparation and fair
+presentation of financial statements that are free from material misstatement, whether due to fraud or
+error.
+
+Auditor's Responsibility
+
+Our responsibility is to express an opinion on these financial statements based on our audit. We conducted
+our audit in accordance with auditing standards generally accepted in the United States of America. Those
+standards require that we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement.
+
+An audit involves performing procedures to obtain audit evidence about the amounts and disclosures in the
+financial statements. The procedures selected depend on the auditor's judgment, including the assessment
+of the risks of material misstatement of the financial statements, whether due to fraud or error. In making
+those risk assessments, the auditor considers internal control relevant to the entity's preparation and fair
+presentation of the financial statements in order to design audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity's internal
+control. Accordingly, we express no such opinion. An audit also includes evaluating the appropriateness of
+accounting policies used and the reasonableness of significant accounting estimates made by management,
+as well as evaluating the overall presentation of the financial statements.
+
+We believe that the audit evidence we have obtained is sufficient and appropriate to provide a basis for our
+audit opinion.
+
+Opinion
+
+In our opinion, the financial statements referred to above present fairly, in all material respects, the
+financial position of The Realtor Apartment Owners Association as of December 31, 2012, and the results
+of its operations and its cash flows for the year then ended in conformity with accounting principles
+generally accepted in the United States of America.
+
+1st Main St, Mainly, WA 98100, US
+
+Page 1 of 10
+
+Other Matter - Required Supplementary Information
+
+Our audit was made for the purpose of forming an opinion on the basic financial statements taken as a
+whole. We have not applied procedures to determine whether the funds designated for future repairs and
+replacements are adequate to meet such future costs because that determination is outside the scope of
+our audit.
+
+Accounting principles generally accepted in the United States of America [GAAP] require that the
+Supplementary Information on Future Major Repairs be presented to supplement the basic financial
+statements. Such information, although not a part of the basic financial statements, is required by the
+Financial Accounting Standards Board, who considers it to be an essential part of financial reporting and
+for placing the basic financial statements and related notes in an appropriate operational, economic, or
+historical context. We have applied certain limited procedures to the required supplementary information in
+accordance with auditing standards generally accepted in the United States of America, which consisted of
+inquiries of management about the methods of preparing the information and comparing the information for
+consistency with management's responses to our inquiries, the basic financial statements, and other
+knowledge we obtained during our audit of the basic financial statements. We do not express an opinion or
+provide any assurance on the information because the limited procedures do not provide us with sufficient
+evidence to express an opinion or provide any assurance.
+
+John Smith, CPA
+Mainly, Washington
+May 31, 2013
+
+Page 2 of 10
+
+---
+
+The Realtor Apartment Owners Association
+Balance Sheet
+December 31, 2012
+
+                                          OPERATING     REPLACEMENT
+                                          FUND          FUND          TOTAL
+
+ASSETS
+Cash, including interest bearing deposits $ 50,740      $ 137,003     $ 187,743
+Investments                                             290,893       290,893
+Assessments Receivable                    569                         569
+Prepaid Insurance                         23,536                      23,536
+Due Between Funds                         1,750         (1,750)
+TOTAL ASSETS                             $ 76,595      $ 426,146     $ 502,741
+
+LIABILITIES AND FUND BALANCES
+
+LIABILITIES
+Accounts Payable                         $ 30,244      $ 9,858       $ 40,102
+Assessments Received in Advance           2,598                       2,598
+Security Deposits Held                    177                         177
+Income Taxes Payable                      2,568                       2,568
+TOTAL LIABILITIES                         35,587        9,858         45,445
+
+FUND BALANCES
+Operating                                 41,008                      41,008
+Replacement                                             416,287       416,287
+TOTAL FUND BALANCES                       41,008        416,287       457,295
+
+TOTAL LIABILITIES AND FUND BALANCES      $ 76,595      $ 426,146     $ 502,741
+
+See Notes to the Financial Statements
+
+Page 3 of 10
+
+---
+
+The Realtor Apartment Owners Association
+Statement of Changes in Fund Balances
+For the Year Ended December 31, 2012
+
+                                          OPERATING     REPLACEMENT
+                                          FUND          FUND          TOTAL
+
+Balance at the Beginning of the Year     $ 44,473      $ 382,757     $ 427,230
+Excess <Deficiency> of
+Revenues over Expenses                    (3,465)       33,531        30,065
+Balance at the End of the Year           $ 41,008      $ 416,287     $ 457,295
+
+See Notes to the Financial Statements
+
+Page 4 of 10
+
+---
+
+The Realtor Apartment Owners Association
+Statement of Revenues and Expenses
+For the Year Ended December 31, 2012
+
+                                          OPERATING     REPLACEMENT
+                                          FUND          FUND          TOTAL
+
+REVENUES
+Assessments                              $ 278,961     $ 119,618     $ 398,579
+Late Fees                                 1,325                       1,325
+Legal Fees                                2,869                       2,869
+Legal Interest                            3,983                       3,983
+Interest                                  66            4,487         4,553
+Miscellaneous                             50                          50
+TOTAL REVENUES                            287,255       124,105       417,360
+
+EXPENSES
+Audit & Tax Preparation                   2,000                       2,000
+Dues & Subscriptions                      2,129                       2,129
+Electricity                               3,305                       3,305
+Federal Taxes                             2,353                       2,353
+Insurance                                 35,412                      35,412
+Landscape                                 38,237                      38,237
+Legal                                     2,061                       2,061
+Legal - Collections                       2,869                       2,869
+Life Safety Systems                       7,254                       7,254
+Management                                25,971                      25,971
+Miscellaneous                             2,791                       2,791
+Office Supplies                           2,086                       2,086
+Repairs & Maintenance                     37,182                      37,182
+Reserve Study                             2,710                       2,710
+Sewer Capacity                            10,021                      10,021
+Telephone                                 3,475                       3,475
+Water & Sewer                             110,864                     110,864
+
+Reserve Expenses
+  Deck Railings                                         65,763        65,763
+  Parking Lot                                           19,774        19,774
+  Windows                                               5,037         5,037
+TOTAL EXPENSES                            290,721       90,574        381,295
+
+EXCESS <DEFICIENCY> OF
+REVENUES OVER EXPENSES                   $ (3,465)     $ 33,531      $ 30,065
+
+See Notes to the Financial Statements
+
+Page 5 of 10
+
+---
+
+The Realtor Apartment Owners Association
+Statement of Cash Flows
+For the Year Ended December 31, 2012
+
+                                          OPERATING     REPLACEMENT
+                                          FUND          FUND          TOTAL
+
+Cash Flows from Operating Activities:
+Cash from Assessments                    $ 289,957     $ 119,618     $ 409,575
+Interest Received                         66            4,487         4,553
+Miscellaneous Income                      8,228                       8,228
+Income Taxes Paid                         (215)                       (215)
+Cash Paid for Services and Products       (304,013)     (80,716)      (384,729)
+Net Increase <Decrease> in Cash from
+Operating Activities                      (6,977)       43,389        36,412
+
+Cash Flows from Investing Activities:
+Purchase of Investments                                 (3,703)       (3,703)
+
+Cash Flows from Financing Activities:
+Change in Due Between Funds               (1,750)       1,750
+
+Net Increase <Decrease> in Cash          (7,727)       41,436        33,709
+
+Cash, including interest bearing deposits,
+at the Beginning of Year                  58,468        95,567        154,035
+
+Cash, including interest bearing deposits,
+at the End of Year                       $ 50,740      $ 137,003     $ 187,743
+
+Reconciliation of Excess <Deficiency> of Revenues over Expenses to Net Cash Received by Operations:
+
+Excess <Deficiency> of Revenues over Expenses         $ (3,465)     $ 33,531      $ 30,065
+Decreased Assessments Receivable                        10,074                      10,074
+Increased Prepaid Insurance                             (16,441)                    (16,441)
+Increased Accounts Payable                              402           9,858         10,260
+Increased Prepaid Assessments                           922                         922
+Increased Taxes Payable                                 2,353                       2,353
+Increased Security Deposits Held                        177                         177
+Rounding                                                1                           1
+Net Increase <Decrease> in Operating Cash              $ (6,977)     $ 43,389      $ 36,412
+
+See Notes to the Financial Statements
+
+Page 6 of 10
+
+---
+
+The Realtor Apartment Owners Association
+Notes to the Financial Statements
+December 31, 2012
+
+NOTE 1 - ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+General
+
+The Realtor Apartment Owners Association was incorporated June 1, 1998 in the state of Washington as a
+nonprofit corporation. The Association is responsible for the operation and maintenance of the common
+property. This is a 116 unit condominium development located at 1st Main St, Mainly, WA 98100, US.
+
+Accounting Method
+
+The Association prepares its statements on the accrual basis of accounting whereby income and expenses
+are recognized when earned and incurred. Fund accounting is employed to properly account for the monies.
+The Operating Fund is used to pay for all utility, insurance, general maintenance, landscaping, and
+administrative obligations of the Association. The Replacement Fund has been established to meet the
+replacement and major repair obligations of the Association with regard to the common area components.
+
+Capitalization Policy
+
+Replacements and improvements to the real property are not capitalized on the books of the Association as
+title is held by the members as a fractional interest as tenants in common. Property and equipment acquired
+by the Association are recorded at cost. The property is depreciated over its estimated useful lives using
+the straight line method of depreciation.
+
+Assessments Receivable
+[Document continues.]

@@ -1,0 +1,37 @@
+{
+  "agents": [
+    {
+      "agent_id": "executive_synthesizer",
+      "name": "Executive Synthesizer",
+      "description": "Coordinates the HOA audit pipeline and synthesizes the final Report Schema v2.0 layout.",
+      "instruction": "Enforce Report Schema v2.0 fill order, verify cross-referencing constraints XR-1 through XR-6, and perform mathematical extraction verification.",
+      "model": "gemini-2.5-flash",
+      "tools": [
+        "read_mcp_document_chunk",
+        "validate_cross_reference"
+      ]
+    },
+    {
+      "agent_id": "financial_specialist",
+      "name": "Financial Specialist",
+      "description": "Parses financials and reserve studies to extract monthly dues, reserve funding ratios, and special assessments.",
+      "instruction": "Extract monthly fees, underfunded reserves, and pending assessments. Strict ban on AI-generated math totals.",
+      "model": "gemini-2.5-flash",
+      "tools": [
+        "read_mcp_document_chunk",
+        "validate_cross_reference"
+      ]
+    },
+    {
+      "agent_id": "legal_specialist",
+      "name": "Legal Specialist",
+      "description": "Audits CC&Rs, bylaws, and resale certificates to catch lease caps and pet restrictions.",
+      "instruction": "Identify lease occupancy limits, short-term lease restrictions, pet count limits, and weight limits.",
+      "model": "gemini-2.5-flash",
+      "tools": [
+        "read_mcp_document_chunk",
+        "validate_cross_reference"
+      ]
+    }
+  ]
+}

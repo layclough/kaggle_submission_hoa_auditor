@@ -1,0 +1,289 @@
+{
+    "state": "WA",
+    "law": "RCW 64.90.640",
+    "title": "Washington WUCIOA Resale Certificate Requirements",
+    "effective": "2026-01-01",
+    "categories": [
+        {
+            "id": "financial",
+            "title": "Financial Health",
+            "icon": "💰",
+            "description": "Current financial obligations and status of the association",
+            "items": [
+                {
+                    "id": "wa_b",
+                    "rcw": "64.90.640(1)(b)",
+                    "title": "Current & Delinquent Assessments",
+                    "description": "Amount of any assessment currently due, any delinquent assessments, and any special assessments levied but not yet paid",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_c",
+                    "rcw": "64.90.640(1)(c)",
+                    "title": "Past Due Assessments (45-day statement)",
+                    "description": "Any assessments against any unit past due over 30 days, current to within 45 days",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_d",
+                    "rcw": "64.90.640(1)(d)",
+                    "title": "Monetary Obligations Past Due",
+                    "description": "Any monetary obligation of the association past due over 30 days, current to within 45 days",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_e",
+                    "rcw": "64.90.640(1)(e)",
+                    "title": "Other Fees Payable",
+                    "description": "Any other fees payable to the association by unit owners",
+                    "severity": "MEDIUM",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_f",
+                    "rcw": "64.90.640(1)(f)",
+                    "title": "Anticipated Major Expenditures",
+                    "description": "Any expenditure or anticipated repair/replacement cost reasonably anticipated to exceed 5% of the board-approved annual budget",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_h",
+                    "rcw": "64.90.640(1)(h)",
+                    "title": "Annual Financial Statement",
+                    "description": "Annual financial statement including audit report (if prepared) for the prior year",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_i",
+                    "rcw": "64.90.640(1)(i)",
+                    "title": "Balance Sheet & Revenue/Expense Statement",
+                    "description": "Most recent balance sheet and revenue and expense statement of the association",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_j",
+                    "rcw": "64.90.640(1)(j)",
+                    "title": "Current Operating Budget",
+                    "description": "The current operating budget of the association",
+                    "severity": "HIGH",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "reserves",
+            "title": "Reserve Fund",
+            "icon": "🏦",
+            "description": "Reserve study status and funding adequacy",
+            "items": [
+                {
+                    "id": "wa_g",
+                    "rcw": "64.90.640(1)(g)",
+                    "title": "Reserve Study Existence",
+                    "description": "Statement whether the association does or does not have a reserve study prepared in accordance with RCW 64.90.545 and 64.90.550",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_y",
+                    "rcw": "64.90.640(1)(y)",
+                    "title": "Reserve Study Absence Disclosure",
+                    "description": "If the association does NOT have a current reserve study, the resale certificate must include the required statutory warning: 'This association does not have a current reserve study. The lack of a current reserve study poses certain risks to you, the purchaser. Insufficient reserves may, under some circumstances, require you to pay on demand as a special assessment your share of common expenses for the cost of major maintenance, repair, or replacement of a common element.' Mark as N/A if a reserve study exists.",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_u_reserve",
+                    "rcw": "64.90.640(1)(u)",
+                    "title": "Reserve Study Summary",
+                    "description": "Summary of the current reserve study must be included in documents provided",
+                    "severity": "HIGH",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "restrictions",
+            "title": "Use & Occupancy Restrictions",
+            "icon": "🚫",
+            "description": "Rules governing how the unit can be used, rented, or occupied",
+            "items": [
+                {
+                    "id": "wa_a",
+                    "rcw": "64.90.640(1)(a)",
+                    "title": "Right of First Refusal / Transfer Restrictions",
+                    "description": "Any right of first refusal or other restraint on the free alienability of the unit in the declaration",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_t",
+                    "rcw": "64.90.640(1)(t)",
+                    "title": "Use & Rental Restrictions",
+                    "description": "Any restriction on the right to use or occupy the unit, including restrictions on leasing or rental",
+                    "severity": "HIGH",
+                    "new_2026": true
+                },
+                {
+                    "id": "wa_w",
+                    "rcw": "64.90.640(1)(w)",
+                    "title": "Age-Related Restrictions",
+                    "description": "Description of any age-related occupancy restrictions affecting the common interest community",
+                    "severity": "HIGH",
+                    "new_2026": true
+                },
+                {
+                    "id": "wa_q",
+                    "rcw": "64.90.640(1)(q)",
+                    "title": "Sale Proceeds Restrictions",
+                    "description": "Any restrictions in the declaration affecting the amount that may be received by a unit owner upon sale",
+                    "severity": "HIGH",
+                    "new_2026": true
+                },
+                {
+                    "id": "wa_m",
+                    "rcw": "64.90.640(1)(m)",
+                    "title": "Unit Violation Notice",
+                    "description": "Whether board has given or received notice that any existing uses, occupancies, alterations, or improvements violate governing documents",
+                    "severity": "HIGH",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "legal",
+            "title": "Legal & Litigation",
+            "icon": "⚖️",
+            "description": "Pending legal actions, judgments, and compliance issues",
+            "items": [
+                {
+                    "id": "wa_k",
+                    "rcw": "64.90.640(1)(k)",
+                    "title": "Unsatisfied Judgments & Legal Actions",
+                    "description": "Any unsatisfied judgments against the association and status of any legal actions in which the association is a party",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_o",
+                    "rcw": "64.90.640(1)(o)",
+                    "title": "Government Violation Notices",
+                    "description": "Whether board has received notice from a governmental agency of any violation of environmental, health, or building codes",
+                    "severity": "HIGH",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_v",
+                    "rcw": "64.90.640(1)(v)",
+                    "title": "Qualified Warranty Coverage",
+                    "description": "Whether units or common elements are covered by a qualified warranty under chapter 64.35 RCW and history of claims",
+                    "severity": "MEDIUM",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "insurance",
+            "title": "Insurance",
+            "icon": "🛡️",
+            "description": "Association insurance coverage details",
+            "items": [
+                {
+                    "id": "wa_l",
+                    "rcw": "64.90.640(1)(l)",
+                    "title": "Insurance Coverage",
+                    "description": "Description of any insurance coverage carried by the association and contact information for the association's insurance broker or agent",
+                    "severity": "HIGH",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "governance",
+            "title": "Governance & Management",
+            "icon": "🏢",
+            "description": "Association governance structure, management, and documents",
+            "items": [
+                {
+                    "id": "wa_n",
+                    "rcw": "64.90.640(1)(n)",
+                    "title": "Declarant Control Status",
+                    "description": "Number of units still owned by the declarant, whether declarant has transferred control to unit owners, and date of transfer",
+                    "severity": "MEDIUM",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_p",
+                    "rcw": "64.90.640(1)(p)",
+                    "title": "Leasehold Estate Term",
+                    "description": "Remaining term of any leasehold estate affecting the common interest community and provisions governing extension or renewal",
+                    "severity": "MEDIUM",
+                    "new_2026": false
+                },
+                {
+                    "id": "wa_s",
+                    "rcw": "64.90.640(1)(s)",
+                    "title": "Common Element Sale or Encumbrance",
+                    "description": "Any pending sale or encumbrance of common elements",
+                    "severity": "HIGH",
+                    "new_2026": true
+                },
+                {
+                    "id": "wa_u_docs",
+                    "rcw": "64.90.640(1)(u)",
+                    "title": "Governing Documents",
+                    "description": "Copy of declaration, organizational documents, rules/regulations, board and association meeting minutes for last 12 months",
+                    "severity": "HIGH",
+                    "new_2026": false
+                }
+            ]
+        },
+        {
+            "id": "ev_charging",
+            "title": "EV Charging",
+            "icon": "⚡",
+            "description": "Electric vehicle charging requirements — NEW 2026",
+            "items": [
+                {
+                    "id": "wa_x",
+                    "rcw": "64.90.640(1)(x)",
+                    "title": "EV Charging Station Requirements",
+                    "description": "Any requirements related to electric vehicle charging stations in the unit or limited common elements, including application status, insurance, maintenance responsibilities, and costs",
+                    "severity": "MEDIUM",
+                    "new_2026": true
+                }
+            ]
+        },
+        {
+            "id": "required_notice",
+            "title": "Required Statutory Notice",
+            "icon": "📋",
+            "description": "Mandatory disclosure notice that must appear in the resale certificate",
+            "items": [
+                {
+                    "id": "wa_z",
+                    "rcw": "64.90.640(1)(z)",
+                    "title": "Statutory Warning Notice",
+                    "description": "Resale certificate must include the required conspicuous notice about HOA membership obligations, assessment liens, and foreclosure risk",
+                    "severity": "HIGH",
+                    "new_2026": false,
+                    "required_text": "THIS UNIT IS LOCATED WITHIN A COMMON INTEREST COMMUNITY AND IS SUBJECT TO THE DECLARATION, BYLAWS, RULES, AND OTHER WRITTEN INSTRUMENTS..."
+                }
+            ]
+        }
+    ],
+    "delivery_requirements": {
+        "seller_must_provide": "Before execution of any contract for sale",
+        "association_response_deadline": "10 days after unit owner request",
+        "max_fee": "$275",
+        "update_fee": "$100 (within 6 months)",
+        "buyer_review_period": "5 days to cancel after receiving certificate",
+        "statement_currency": "Financial statements must be current to within 45 days"
+    }
+}

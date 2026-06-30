@@ -1,0 +1,250 @@
+Monthly Unaudited Financial Documents
+The Realtor Apartment
+
+COMPARATIVE BALANCE SHEET                                               PAGE 1
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 07/06/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 07/06/2015
+                                                      As of 15:13:05
+Cur. Period: 06/15  JUNE 30, 2015                     PROJECT SQ FT:
+Sel. Period: 06/15                                    PROJECT UNITS: 116
+
+Address: 1st Main St, Mainly, WA 98100, US
+
+ACCOUNT    DESCRIPTION                          CURRENT MONTH   LAST MONTH      NET CHANGE      LAST YEAR
+1000 ASSETS
+CASH
+1020       Cash-Operating-Foundation            16,421.99       22,424.39       6,002.40-       20,790.20
+1030       Cash-Operating-KeyBank               0.00            0.00            0.00            1,965.79
+1049       TOTAL OPERATING CASH                 16,421.99       22,424.39       6,002.40-       22,755.99
+
+OTHER CASH
+           Cash-Maint Res-FndtnBk 0953          320,131.81      306,078.47      14,053.34       0.00
+           Cash-Maint Res-UnionBk 1152          0.00            0.00            0.00            225,220.61
+           Cash-Maint Res-UnionBk 1144          0.00            0.00            0.00            100.00
+           Cash-Insurance Reserves-KEY          0.00            0.00            0.00            51,168.52
+           FHA Insurance Deductible-KB          0.00            0.00            0.00            15,000.00
+           Cash-Insur Rsrv-Fndtn.0946           49,036.91       45,723.46       3,313.45        0.00
+           FHA Insur Deduct-Fndtn.0946          15,000.00       25,000.00       0.00            0.00
+           UmpquBkCD4462 8/17/15 1.05%          156,936.46      156,936.46      0.00            155,687.00
+           CD-Fndtn Bk 104000982 10/16          140,740.43      140,740.43      0.00            139,472.21
+1089       TOTAL OTHER CASH                     681,845.61      664,478.82      17,366.79       586,678.34
+1093       TOTAL CASH                           698,267.60      686,903.21      1,364.39        609,434.33
+
+1200 ACCOUNTS RECEIVABLE
+           Monthly Assessments                  522.42          1,300.82        778.39-         0.19
+           Other Owner Receivables              145.02          195.02          50.00-          15.05
+1199       TOTAL RECEIVABLES                    667.44          1,495.83        828.39-         15.24
+
+1300 PREPAID EXPENSES
+           Prepaid Insurance                    4,715.64        7,862.31        3,146.67-       4,707.18
+1399       TOTAL PREPAID EXPENSES               4,715.64        7,862.31        3,146.67-       4,707.18
+
+1499       TOTAL CURRENT ASSETS                 703,650.68      696,261.35      7,389.33        614,156.75
+
+2000 LIABILITIES
+2011       Accounts Payable                     5,115.16        0.00            5,115.16        5,182.00
+2505       Prepaid Monthly Assessments          4,523.00        3,221.59        1,301.41        3,734.56
+2515       Security Deposits Held               177.38          177.38          0.00            177.38
+2999       TOTAL LIABILITIES                    9,815.54        3,398.97        6,416.57        9,093.94
+
+3000 EQUITY
+           Accumulated Earnings                 629,322.32      629,322.32      0.00            597,765.77
+           Current Year Earn/Loss               64,512.82       63,540.06       972.76          7,287.04
+3998       TOTAL CAPITAL                        693,835.14      692,262.38      972.76          605,062.81
+3999       TOTAL LIABILITY & CAPITAL            703,650.68      696,261.35      7,389.33        614,156.75
+
+---
+
+PROFIT & LOSS VARIANCE                                                  PAGE 1
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 07/06/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 07/06/2015
+                                                      As of 15:13:28
+Cur. Period: 06/15  JUNE 30, 2015                     PROJECT SQ FT:
+Sel. Period: 06/15                                    PROJECT UNITS: 116
+
+ACCOUNT    DESCRIPTION           CURRENT MONTH                  YEAR TO DATE                   ANNUAL
+                                 ACTUAL   BUDGET   DIFFERENCE   ACTUAL     BUDGET   DIFFERENCE  BUDGET
+
+4000 INCOME
+4140       Monthly Assessment    39,352.26  39,352  0            236,113.56  236,112  1          472,225
+4199       TOTAL ASSESSMENT INC  39,352.26  39,352  0            236,113.56  236,112  1          472,225
+
+4600 OTHER INCOME
+4605       Late Charges          100.00     0       100          715.00      0        715         0
+4608       Delinquency Stmt Fee  0.00       5       5-           30.00       30       0           60
+4705       Reserves Interest Inc 92.34      184     92-          1,738.44    1,105    633         2,210
+4710       Operating Funds Int   18.37      8       10           92.52       50       43          99
+4799       TOTAL OTHER INCOME    210.72     197     13           2,575.96    1,185    1,391       2,369
+
+4999       TOTAL INCOME          39,562.97  39,550  13           238,689.52  237,297  2,393       474,594
+
+5000 EXPENSES
+5002 OPERATING EXPENSES
+5069 ADMINISTRATIVE/OFFICE
+5073       Management Fees       2,231.67   2,232   0            13,390.02   13,390   0           26,780
+5075       Bank Service Charges  60.00      71      11           377.00      425      48          850
+5076       Postage               22.52      50      27           352.47      300      52-         600
+5077       Office Supplies       1.85-      125     127          165.40      750      585         1,500
+5079       Meeting Room Rental   0.00       25      25           160.00      150      10          300
+5085       Special Project Fees  0.00       42      42           405.00      250      155-        500
+5087       Printing/Photocopying 11.55      77      66           372.40      462      90          925
+5088       Delinquency Stmt Fees 0.00       5       5            30.00       30       0           60
+5090       Licenses & Fees       10.00      1       9-           10.00       5        5-          10
+5092       Dues & Subscriptions  40.60      83      43           453.60      500      46          1,000
+5097       Other Office          117.00     108     9-           785.00      648      137-        1,296
+5099-001   TOTAL ADMIN EXP       2,491.49   2,818   327          16,500.89   16,910   410         33,821
+
+5100 UTILITIES
+5110       Electricity           91.70      258     166          732.14      2,545    813         3,090
+5140       Water                 10,305.32  5,583   4,723-       29,877.68   33,495   3,617       66,990
+5142       Sewer                 11,027.38  5,250   5,777-       32,296.98   31,500   797-        63,000
+5199       TOTAL UTILITIES       21,424.40  11,090  10,334-      62,906.80   66,540   3,633       133,080
+
+---
+
+PROFIT & LOSS VARIANCE                                                  PAGE 2
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 07/06/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 07/06/2015
+                                                      As of 15:13:29
+Cur. Period: 06/15  JUNE 30, 2015                     PROJECT SQ FT:
+Sel. Period: 06/15                                    PROJECT UNITS: 116
+
+ACCOUNT    DESCRIPTION           CURRENT MONTH                  YEAR TO DATE                   ANNUAL
+                                 ACTUAL   BUDGET   DIFFERENCE   ACTUAL     BUDGET   DIFFERENCE  BUDGET
+
+5300 REPAIRS/MAINTENANCE/GENERAL
+5330       Electrical Repair     0.00       54      54           382.85      325      58-         650
+5345       Dryer Vent Cleaning   0.00       192     192          0.00        1,150    1,150       2,300
+5390       Pest Control          1,846.72   317     1,530-       3,259.30    1,900    1,359-      3,800
+5445       Gutter Cleaning       0.00       708     708          259.52      4,250    3,990       8,500
+5500       Repairs & Maintenance 154.47     2,500   2,346        5,201.59    15,000   9,798       30,000
+5510       Life Safety System    1,576.80   638     939-         3,397.24    3,827    430         7,654
+5610       Landscaping Contract  2,377.25   2,377   0            14,263.50   14,264   0           28,527
+5660       Other Landscaping     0.00       625     625          1,461.83    3,750    2,288       7,500
+5999       TOTAL REPAIR/MAINT    5,955.24   7,411   1,456        28,225.83   44,466   16,240      88,932
+
+6300 PROFESSIONAL FEES
+6310       Legal                 457.25     417     40-          1,312.25    2,500    1,188       5,000
+6311       Legal - Collections   0.00       42      42           0.00        250      250         500
+6330       Audit                 0.00       183     183          2,200.00    1,100    1,100-      2,200
+6398       Other Professional    0.00       685     685          0.00        685      685         1,370
+6399       TOTAL PROFESSIONAL    457.25     756     299          3,512.25    4,535    1,023       9,070
+
+7000 TAXES, FEES, & INSURANCE
+7136       Federal Income Taxes  0.00       21      21           1,000.00    125      875-        250
+7142       Insurance - Property  3,146.67   3,295   148          18,880.02   19,770   890         39,541
+8199       TOTAL TAXES/FEES/INS  3,146.67   3,316   169          19,880.02   19,895   15          39,791
+
+8998       TOTAL OPERATING EXP   33,475.05  25,391  8,084-       131,025.79  152,346  21,321      304,693
+8999       NET OPERATING INCOME  6,087.92   14,158  8,071-       107,663.73  84,951   22,713      169,902
+
+9115       Grounds/Parking Area  0.00       4,653   4,653        0.00        27,918   27,918      55,835
+9154       Window Replacement    5,115.16   344     4,771-       5,115.16    2,063    3,053-      4,125
+9156       Deck Resurface/Repair 0.00       5,833   5,833        10,704.55   35,000   24,295      70,000
+9190       Painting              0.00       9,958   9,958        0.00        59,750   59,750      119,500
+9225       Other - Tree Removal  0.00       0       0            27,331.20   0        27,331-     0
+9299       TOTAL CAPITAL EXP     5,115.16   20,788  15,673       43,150.91   124,730  81,579      249,460
+
+9999       NET INCOME (LOSS)     972.76     6,630-  7,603        64,512.82   39,779-  104,292     79,559-
+
+---
+
+COMPARATIVE BALANCE SHEET                                               PAGE 1
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 06/05/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 06/05/2015
+                                                      As of 08:33:00
+Cur. Period: 05/15  MAY 31, 2015                      PROJECT SQ FT:
+Sel. Period: 05/15                                    PROJECT UNITS: 116
+
+ACCOUNT    DESCRIPTION                          CURRENT MONTH   LAST MONTH      NET CHANGE      LAST YEAR
+1000 ASSETS
+1010 CASH
+1020       Cash-Operating-Foundation            22,424.39       14,128.45       8,295.94        0.00
+1030       Cash-Operating-KeyBank               0.00            0.00            0.00            26,714.70
+1030-002   Cash-Insur Clm Units 48,49           0.00            0.00            0.00            2,372.97-
+1049       TOTAL OPERATING CASH                 22,424.39       14,128.45       8,295.94        25,342.73
+
+1050 OTHER CASH
+1060       Cash-Maint Res-FndtnBk.0953          306,078.47      292,034.24      14,044.23       0.00
+1062       Cash-Maint Res-UnionBk 1152          0.00            0.00            0.00            212,076.65
+1062-001   Cash-Maint Res-UnionBk 1144          0.00            0.00            0.00            100.00
+1070       Cash-Insurance Reserves-KEY          0.00            0.00            0.00            48,040.89
+1070-002   FHA Insurance Deductible-KB          0.00            0.00            0.00            15,000.00
+1071       Cash-Insur Rsrv-Fndtn.0946           45,723.46       42,411.94       3,311.52        0.00
+1071-002   FHA Insur Deduct-Fndtn.0946          15,000.00       15,000.00       0.00            0.00
+1081       UmpquBkCD4462 8/17/15 1.05%          156,936.46      156,936.46      0.00            154,889.47
+1086       CD-Fndtn Bk 104000982 10/16          140,740.43      140,740.43      0.00            138,430.10
+1089       TOTAL OTHER CASH                     664,478.82      647,123.07      17,355.75       568,537.11
+1099       TOTAL CASH                           686,903.21      661,251.52      25,651.69       593,879.84
+
+1100 ACCOUNTS RECEIVABLE
+1104       Monthly Assessments                  1,300.82        873.72          427.09          587.50
+1150       Other Owner Receivables              195.02          50.00           145.02          2,970.32
+1199       TOTAL RECEIVABLES                    1,495.83        923.72          572.11          2,557.82
+
+1300 PREPAID EXPENSES
+1315       Prepaid Insurance                    7,862.31        11,008.98       3,146.67-       7,845.35
+1399       TOTAL PREPAID EXPENSES               7,862.31        11,008.98       3,146.67-       7,845.35
+
+1499       TOTAL CURRENT ASSETS                 696,261.35      673,184.22      23,077.23       604,283.01
+
+2000 LIABILITIES
+2505       Prepaid Monthly Assessments          3,221.59        5,444.05        2,222.46-       3,480.09
+2515       Security Deposits Held               177.38          177.38          0.00            177.38
+2999       TOTAL LIABILITIES                    3,398.97        5,621.43        2,222.46-       3,657.47
+
+3000 EQUITY
+3910       Accumulated Earnings                 629,322.32      629,322.32      0.00            597,765.77
+3920       Current Year Earn/Loss               63,540.06       38,240.47       25,299.59       2,859.77
+3998       TOTAL CAPITAL                        692,862.38      667,562.79      25,299.59       600,625.54
+3999       TOTAL LIABILITY & CAPITAL            696,261.35      673,184.22      23,077.13       604,283.02
+
+---
+
+PROFIT & LOSS VARIANCE                                                  PAGE 1
+
+THE REALTOR APARTMENT ASSOCIATION MANAGEMENT          SYSTEM DATE: 06/05/2015
+THE REALTOR APARTMENT OWNERS ASSOC.                   SELECT DATE: 06/05/2015
+                                                      As of 08:33:17
+Cur. Period: 05/15  MAY 31, 2015                      PROJECT SQ FT:
+Sel. Period: 05/15                                    PROJECT UNITS: 116
+
+ACCOUNT    DESCRIPTION           CURRENT MONTH                  YEAR TO DATE                   ANNUAL
+                                 ACTUAL   BUDGET   DIFFERENCE   ACTUAL     BUDGET   DIFFERENCE  BUDGET
+
+4000 INCOME
+4140       Monthly Assessment    39,352.26  39,352  0            196,761.30  196,760  1          472,225
+4199       TOTAL ASSESSMENT INC  39,352.26  39,352  0            196,761.30  196,760  1          472,225
+
+4600 OTHER INCOME
+4605       Late Charges          200.00     0       200          615.00      0        615         0
+4608       Delinquency Stmt Fee  15.00      5       10           30.00       25       5           60
+4705       Reserves Interest Inc 83.23      184     101-         1,646.10    921      725         2,210
+4710       Operating Funds Int   16.44      8       8            74.15       41       33          99
+4799       TOTAL OTHER INCOME    314.67     197     117          2,365.25    987      1,378       2,369
+
+4999       TOTAL INCOME          39,666.93  39,550  117          199,126.55  197,748  1,379       474,594
+
+5000 EXPENSES
+5002 OPERATING EXPENSES
+5069 ADMINISTRATIVE/OFFICE
+5073       Management Fees       2,231.67   2,232   0            11,158.35   11,158   0           26,780
+5075       Bank Service Charges  60.00      71      11           317.00      354      37          850
+5076       Postage               90.07      50      40-          329.95      250      80-         600
+5077       Office Supplies       56.50      125     69           167.25      625      458         1,500
+5079       Meeting Room Rental   0.00       25      25           160.00      125      35-         300
+5085       Special Project Fees  0.00       42      42           405.00      208      197-        500
+5087       Printing/Photocopying 124.65     77      48-          360.85      385      25          925
+5088       Delinquency Stmt Fees 15.00      5       10-          30.00       25       5-          60
+5090       Licenses & Fees       0.00       1       1            0.00        4        4           10
+5092       Dues & Subscriptions  40.60      83      43           413.00      417      4           1,000
+5097       Other Office          108.00     108     0            668.00      540      128-        1,296
+5099-002   TOTAL ADMIN EXP       2,726.49   2,818   92           14,009.40   14,092   83          33,821
+
+5100 UTILITIES
+5110       Electricity           122.42     258     135          640.44      1,288    647         3,090
+           [Document continues.]
